@@ -1,5 +1,19 @@
 ### Hi I'm Ahmed Nasser👋
 
+- ⚡ I’m Studying Bioinformatics, FCIS, ASU
+- ⚡ Email: ahmednasser1601@gmail.com
+- ⚡ Whatsapp: +201270800202
+- ⚡ AboutMe: https://linktr.ee/AhmedNasser1601
+
+--------------------------------------------------
+
+![Stats](https://github-readme-stats.vercel.app/api?username=AhmedNasser1601&count_private=true&show_icons=true&theme=radical)
+
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasser1601&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+--------------------------------------------------
+
+
 <!--
 **AhmedNasser1601/AhmedNasser1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
     GitHub Stats Card
@@ -26,16 +40,3 @@
     Wakatime Week Stats
       [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-- ⚡ I’m Studying Bioinformatics, FCIS, ASU
-- ⚡ Email: ahmednasser1601@gmail.com
-- ⚡ Whatsapp: +201270800202
-- ⚡ AboutMe: https://linktr.ee/AhmedNasser1601
-
---------------------------------------------------
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AhmedNasser1601&include_all_commits&show_owner=true&count_private=true&show_icons=true&theme=radical)
-
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasser1601&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
---------------------------------------------------
