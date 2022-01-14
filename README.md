@@ -9,7 +9,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AhmedNasser1601&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasser1601&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasser1601&custom_title=""Languages&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 --------------------------------------------------
 
