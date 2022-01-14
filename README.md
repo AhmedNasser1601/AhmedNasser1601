@@ -34,34 +34,8 @@
 
 --------------------------------------------------
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedNasser1601)](https://github.com/anuraghazra/github-readme-stats)
-
---------------------------------------------------
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedNasser1601&hide=contribs,prs)
-
---------------------------------------------------
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedNasser1601&count_private=true)
-
---------------------------------------------------
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedNasser1601&show_icons=true)
-
---------------------------------------------------
-
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedNasser1601&show_icons=true&theme=radical)
-
---------------------------------------------------
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedNasser1601&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
---------------------------------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasser1601)](https://github.com/anuraghazra/github-readme-stats)
 
 --------------------------------------------------
-
-[![Ahmed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AhmedNasser1601)](https://github.com/anuraghazra/github-readme-stats)
-
-----------------------------------------------------------------------------------------------------
