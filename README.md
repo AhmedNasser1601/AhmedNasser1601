@@ -1,10 +1,12 @@
 ### Hi I'm Ahmed Nasser👋
 
+![Sign-Mido](https://user-images.githubusercontent.com/60184582/149571083-3af120b2-fc45-4efa-b6d4-77b0950587bf.jpg)
 
 - ⚡ I’m Studying Bioinformatics, FCIS, ASU
-- ⚡ Email: ahmednasser1601@gmail.com
-- ⚡ Whatsapp: +201270800202
-- ⚡ AboutMe: https://linktr.ee/AhmedNasser1601
+
+- ⚡ <a href="https://linktr.ee/AhmedNasser1601">𝓑𝓮𝓵𝓲𝓮𝓿𝓮 𝓲𝓷 𝓟𝓸𝔀𝓮𝓻 𝓸𝓯 𝓒𝓸𝓭𝓮⚡</a>
+
+- ⚡ ContactMe: => <a href="https://wa.me/201270800202?text=Hello"><img align="center" src="https://img.icons8.com/color/32/000000/whatsapp--v6.png"/></a>  |  <a href="https://www.facebook.com/AhmedNasser1601/"><img align="center" src="https://img.icons8.com/color/32/000000/facebook-circled--v4.png"/></a>  |  <a href="https://www.linkedin.com/in/ahmednasser1601/"><img align="center" src="https://img.icons8.com/color/32/000000/linkedin.png"/></a>  |  <a href="https://t.me/AhmedNasser1601"><img align="center" src="https://img.icons8.com/color/32/000000/telegram-app--v5.png"/></a>  |  <a href="https://github.com/AhmedNasser1601"><img align="center" src="https://img.icons8.com/color/32/000000/github--v3.png"/></a>  |  <a href="mailto:ahmednasser1601@gmail.com"><img align="center" src="https://img.icons8.com/color/32/000000/secured-letter--v2.png"/></a>  |  <a href="https://drive.google.com/file/d/14uDWh41Xmm8j60mP3_1GYzxFqT37NuMJ/view?usp=sharing"><img align="center" src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/32/000000/external-cv-politic-icongeek26-outline-gradient-icongeek26.png"/></a>
 
 --------------------------------------------------
 
@@ -16,28 +18,7 @@
 
 
 <!--
-**AhmedNasser1601/AhmedNasser1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-    GitHub Stats Card
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-    Hiding individual stats
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-
-    Adding private contributions count to total commits count
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-
-    Showing icons
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
-    Themes
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-    GitHub Extra Pins
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-    Top Languages Card
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-    Wakatime Week Stats
-      [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedNasser1601&repo=TumorCancerPrediction" />
+    </a>
 -->
