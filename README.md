@@ -6,7 +6,7 @@
 
 - 💻 FCIS, ASU, Grad-23
 
-- ⚡ <a href="https://linktr.ee/AhmedNasser1601">𝓑𝓮𝓵𝓲𝓮𝓿𝓮 𝓲𝓷 𝓟𝓸𝔀𝓮𝓻 𝓸𝓯 𝓒𝓸𝓭𝓮⚡</a>
+- <a href="https://linktr.ee/AhmedNasser1601">⚡𝓑𝓮𝓵𝓲𝓮𝓿𝓮 𝓲𝓷 𝓟𝓸𝔀𝓮𝓻 𝓸𝓯 𝓒𝓸𝓭𝓮⚡</a>
 
 - <a href="https://wa.me/201270800202?text=Hello"><img align="center" src="https://img.icons8.com/color/28/000000/whatsapp--v6.png"/></a>  |  <a href="https://www.facebook.com/AhmedNasser1601/"><img align="center" src="https://img.icons8.com/color/28/000000/facebook-circled--v4.png"/></a>  |  <a href="https://www.linkedin.com/in/ahmednasser1601/"><img align="center" src="https://img.icons8.com/color/28/000000/linkedin.png"/></a>  |  <a href="https://t.me/AhmedNasser1601"><img align="center" src="https://img.icons8.com/color/28/000000/telegram-app--v5.png"/></a>  |  <a href="https://github.com/AhmedNasser1601"><img align="center" src="https://img.icons8.com/color/28/000000/github--v3.png"/></a>  |  <a href="mailto:ahmednasser1601@gmail.com"><img align="center" src="https://img.icons8.com/color/28/000000/secured-letter--v2.png"/></a>
 
