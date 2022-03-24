@@ -2,7 +2,7 @@
 
 ![Sign-Mido](https://user-images.githubusercontent.com/60184582/149571083-3af120b2-fc45-4efa-b6d4-77b0950587bf.jpg)
 
-- 🧬 Studying Bioinformatics 💻 FCIS, ASU, Grad: 2023
+- 🧬 Studying Bioinformatics 💻 FCIS, ASU, Grad: 23
 
 - <a href="https://linktr.ee/AhmedNasser1601">⚡𝓑𝓮𝓵𝓲𝓮𝓿𝓮 𝓲𝓷 𝓟𝓸𝔀𝓮𝓻 𝓸𝓯 𝓒𝓸𝓭𝓮⚡</a>
 
