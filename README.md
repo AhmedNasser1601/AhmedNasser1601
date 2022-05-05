@@ -14,7 +14,7 @@
 
 --------------------------------------------------
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedNasser1601&theme=dark&hide_border=false)](https://linktr.ee/AhmedNasser1601)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmedNasser1601&theme=blue-green&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD0000&stroke=9140DD&ring=5DDD32&dates=A1199A&sideNums=136EDD)](https://linktr.ee/AhmedNasser1601)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=AhmedNasser1601&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://linktr.ee/AhmedNasser1601)
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasser1601&langs_count=8&layout=compact&show_icons=true&theme=vision-friendly-dark)](https://linktr.ee/AhmedNasser1601)
