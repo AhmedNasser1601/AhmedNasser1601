@@ -22,3 +22,5 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AhmedNasser1601&theme=xcode)](https://linktr.ee/AhmedNasser1601)
 
 --------------------------------------------------
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AhmedNasser1601&style=plastic&color=orange&label=Profile+Vews)](https://bit.ly/AhmedNasser_Resume)
