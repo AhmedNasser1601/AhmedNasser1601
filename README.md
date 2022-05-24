@@ -19,7 +19,7 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=AhmedNasser1601&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://linktr.ee/AhmedNasser1601)
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasser1601&langs_count=8&layout=compact&show_icons=true&theme=vision-friendly-dark)](https://linktr.ee/AhmedNasser1601)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AhmedNasser1601&theme=xcode)](https://linktr.ee/AhmedNasser1601)
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=AhmedNasser1601&theme=xcode)](https://linktr.ee/AhmedNasser1601)
 
 --------------------------------------------------
 
