@@ -23,4 +23,4 @@
 
 --------------------------------------------------
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AhmedNasser1601&style=plastic&color=orange&label=Profile+Vews)](https://linktr.ee/AhmedNasser1601)   &   ![Most Active GitHub User Rank](https://enx667n9lygvtjs.m.pipedream.net)
+[![Profile Views](https://komarev.com/ghpvc/?username=AhmedNasser1601&style=plastic&color=orange&label=Profile+Vews)](https://linktr.ee/AhmedNasser1601)      ![Most Active GitHub User Rank](https://enx667n9lygvtjs.m.pipedream.net)
