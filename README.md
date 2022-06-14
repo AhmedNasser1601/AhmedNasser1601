@@ -25,6 +25,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AhmedNasser1601&style=plastic&color=orange&label=Profile+Vews)](https://linktr.ee/AhmedNasser1601)
 [![wakatime](https://wakatime.com/badge/user/bb619103-02da-4736-a419-72175b9a2c70.svg)](https://wakatime.com/@bb619103-02da-4736-a419-72175b9a2c70)
+[![github](https://img.shields.io/github/followers/AhmedNasser1601?logo=github&style=plastic&color=green)](https://github.com/AhmedNasser1601?tab=followers)
 
 
 
