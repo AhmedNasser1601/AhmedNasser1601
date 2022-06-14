@@ -24,12 +24,10 @@
 --------------------------------------------------
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AhmedNasser1601&style=plastic&color=orange&label=Profile+Vews)](https://linktr.ee/AhmedNasser1601)
-[![wakatime](https://wakatime.com/badge/user/bb619103-02da-4736-a419-72175b9a2c70/project/889c63cf-aa91-4abb-aa47-4215203e6aa5.svg)](https://wakatime.com/badge/user/bb619103-02da-4736-a419-72175b9a2c70/project/889c63cf-aa91-4abb-aa47-4215203e6aa5)
+[![wakatime](https://wakatime.com/badge/user/bb619103-02da-4736-a419-72175b9a2c70.svg)](https://wakatime.com/@bb619103-02da-4736-a419-72175b9a2c70)
 
 
 
 <!---
   ![Most Active GitHub User Rank](https://enx667n9lygvtjs.m.pipedream.net)
-
-  [![wakatime](https://wakatime.com/badge/user/bb619103-02da-4736-a419-72175b9a2c70.svg)](https://wakatime.com/@bb619103-02da-4736-a419-72175b9a2c70)
 -->
