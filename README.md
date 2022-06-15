@@ -4,7 +4,7 @@
 
 [![Sign-Mido](https://user-images.githubusercontent.com/60184582/149571083-3af120b2-fc45-4efa-b6d4-77b0950587bf.jpg)](https://linktr.ee/AhmedNasser1601)
 
-- 🧬 Studying Bioinformatics 💻 FCIS, Ain Shams University, Grad: 2023
+- 🧬 Studying Bioinformatics, FCIS, Ain Shams University, Grad 23
 
 - 💻 Portfolio: <a href="https://www.ahmednasser.tech"> www.ahmednasser.tech</a>
 
