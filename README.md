@@ -26,12 +26,12 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=AhmedNasser1601&style=plastic&color=orange&label=Profile+Vews)](https://ahmednasser.tech)
 [![wakatime](https://wakatime.com/badge/user/bb619103-02da-4736-a419-72175b9a2c70.svg)](https://wakatime.com/@bb619103-02da-4736-a419-72175b9a2c70)
 
-
+![snake gif](https://github.com/AhmedNasser1601/AhmedNasser1601/blob/output/github-contribution-grid-snake.svg)
 
 <!---
   ![Most Active GitHub User Rank](https://enx667n9lygvtjs.m.pipedream.net)
+
   [![github](https://img.shields.io/github/followers/AhmedNasser1601?logo=github&style=plastic&color=green)](https://github.com/AhmedNasser1601?tab=followers)
 
-  ![github-user-contribution](https://user-images.githubusercontent.com/60184582/174987906-9f70d150-cab1-4ef3-9e0e-3a9561c53475.svg)
-  ![github-user-contribution](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/AhmedNasser1601/AhmedNasser1601/blob/output/github-contribution-grid-snake.gif)
 -->
