@@ -4,9 +4,9 @@
 
 [![AhmedNasser1601](https://user-images.githubusercontent.com/60184582/176120588-1bcfd067-2ae8-45c2-9e45-1a9944fbc997.jpg)](https://ahmednasser.tech)
 
-- 🧬 Studying Bioinformatics, FCIS, Ain Shams University, Grad 23
+- 🧬 Junior Bioinformatics student, FCIS, Ain Shams University
 
-- 💻 Portfolio: <a href="https://ahmednasser.tech"> www.ahmednasser.tech</a>
+- 💻 Portfolio |> <a href="https://ahmednasser.tech"> www.AhmedNasser.tech</a>
 
 - <a href="https://wa.me/201270800202?text=Hello"><img align="center" src="https://img.icons8.com/color/30/000000/whatsapp--v6.png"/></a>  |  <a href="https://www.facebook.com/AhmedNasser1601/"><img align="center" src="https://img.icons8.com/color/30/000000/facebook-circled--v4.png"/></a>  |  <a href="https://www.linkedin.com/in/ahmednasser1601/"><img align="center" src="https://img.icons8.com/color/30/000000/linkedin.png"/></a>  |  <a href="https://t.me/AhmedNasser1601"><img align="center" src="https://img.icons8.com/color/30/000000/telegram-app--v5.png"/></a>  |  <a href="https://github.com/AhmedNasser1601"><img align="center" src="https://img.icons8.com/color/30/000000/github--v3.png"/></a>  |  <a href="mailto:ahmednasser1601@gmail.com"><img align="center" src="https://img.icons8.com/color/30/000000/secured-letter--v2.png"/></a>
 
