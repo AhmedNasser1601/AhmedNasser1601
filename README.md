@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=0CFF34&center=true&vCenter=true&lines=%E2%9A%A1%F0%9D%93%91%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B2%F0%9D%93%AE%F0%9D%93%BF%F0%9D%93%AE+%F0%9D%93%B2%F0%9D%93%B7+%F0%9D%93%9F%F0%9D%93%B8%F0%9D%94%80%F0%9D%93%AE%F0%9D%93%BB+%F0%9D%93%B8%F0%9D%93%AF+%F0%9D%93%92%F0%9D%93%B8%F0%9D%93%AD%F0%9D%93%AE%E2%9A%A1)](https://ahmednasser.tech)
 
-[![AhmedNasser1601](https://user-images.githubusercontent.com/60184582/176120588-1bcfd067-2ae8-45c2-9e45-1a9944fbc997.jpg)](https://ahmednasser.tech)
+[![AhmedNasser1601](https://user-images.githubusercontent.com/60184582/176120588-1bcfd067-2ae8-45c2-9e45-1a9944fbc997.jpg)](https://paypal.me/Ahmed160102)
 
 - 🧬 Junior Bioinformatics student, FCIS, Ain Shams University
 
