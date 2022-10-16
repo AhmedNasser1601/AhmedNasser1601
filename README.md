@@ -4,7 +4,7 @@
 
 [![AhmedNasser1601](https://user-images.githubusercontent.com/60184582/176120588-1bcfd067-2ae8-45c2-9e45-1a9944fbc997.jpg)](https://paypal.me/Ahmed160102)
 
-- 🧬 Junior Bioinformatics student, FCIS, Ain Shams University
+- 🧬 Senior Bioinformatics student, FCIS, Ain Shams University
 
 - 💻 Portfolio |> <a href="https://ahmednasser.tech"> www.AhmedNasser.tech</a>
 
