@@ -21,4 +21,4 @@
 
 > ___
 
-> ![Profile Views](https://komarev.com/ghpvc/?username=AhmedNasser1601&style=plastic&color=orange&label=Profile+Vews) [![wakatime](https://wakatime.com/badge/user/bb619103-02da-4736-a419-72175b9a2c70.svg)](https://wakatime.com/@bb619103-02da-4736-a419-72175b9a2c70)
+> <img src="https://komarev.com/ghpvc/?username=AhmedNasser1601&label=Profile+Visits"/>  <img src="https://wakatime.com/badge/github/AhmedNasser1601/AhmedNasser1601.svg"/>
