@@ -21,10 +21,4 @@
 
 > ___
 
-> [<kbd><br><img src="https://komarev.com/ghpvc/?username=AhmedNasser1601&label=Profile+Visits"/> <img src="https://wakatime.com/badge/github/AhmedNasser1601/AhmedNasser1601.svg"/><br></kbd>](https://ahmednasser.tech)
-
-
-
-<!---
-[<kbd><br>![repo](https://img.shields.io/static/v1?label=AhmedNasser1601&message=AhmedNasser1601&color=blue&logo=github) ![stars](https://img.shields.io/github/stars/AhmedNasser1601/AhmedNasser1601?style=social) ![forks](https://img.shields.io/github/forks/AhmedNasser1601/AhmedNasser1601?style=social) ![visitors](https://visitor-badge.glitch.me/badge?page_id=AhmedNasser1601/AhmedNasser1601&left_color=green&right_color=red)<br></kbd>]()
--->
+> [<kbd><br><img src="https://komarev.com/ghpvc/?username=AhmedNasser1601&label=Profile+Visits"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" height=16/> <img src="https://wakatime.com/badge/github/AhmedNasser1601/AhmedNasser1601.svg"/><br></kbd>](https://ahmednasser.tech)
