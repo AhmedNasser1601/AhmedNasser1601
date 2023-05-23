@@ -21,7 +21,7 @@
 
 > ___
 
-> [<kbd><br><img src="https://komarev.com/ghpvc/?username=AhmedNasser1601"/><br></kbd>](https://komarev.com/ghpvc/?username=AhmedNasser1601) [<kbd><br><img src="https://user-badge.committers.top/egypt/AhmedNasser1601.svg"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" height=18/><br></kbd>](https://user-badge.committers.top/egypt/AhmedNasser1601)
+> [<kbd><br><img src="https://komarev.com/ghpvc/?username=AhmedNasser1601"/><br></kbd>](https://komarev.com/ghpvc/?username=AhmedNasser1601) [<kbd><br><img src="https://user-badge.committers.top/egypt/AhmedNasser1601.svg"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" height=18/><br></kbd>](https://user-badge.committers.top/egypt/AhmedNasser1601) [<kbd><br><img src="https://wakatime.com/badge/github/AhmedNasser1601/AhmedNasser1601.svg"/><br></kbd>](https://wakatime.com/AhmedNasser1601)
 
 <!---
 > [<kbd><br>![User Rank Over Egypt](https://enog8v2bxujn2dj.m.pipedream.net)<br></kbd>](https://enog8v2bxujn2dj.m.pipedream.net)
