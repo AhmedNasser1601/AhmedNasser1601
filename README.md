@@ -2,7 +2,7 @@
 
 > <a href="https://ahmednasser.tech"><img width="450" align="center" alt="Ahmed Nasser" src="https://user-images.githubusercontent.com/60184582/206713644-03bb8b0b-b550-47e5-a765-a0b198890f2f.png"/></a>
 
-> 🧬 `Senior` Bioinformatics std. FCIS, Ain Shams University
+> 🧬 Senior Bioinformatics std. `FCIS, Ain Shams University`
 
 > | <a href="https://wa.me/201270800202?text=Hello"><img align="center" src="https://user-images.githubusercontent.com/60184582/206715242-21e193ea-4d40-4c25-a493-c8daed175e53.png"/></a> | <a href="https://www.linkedin.com/in/ahmednasser1601/"><img align="center" src="https://user-images.githubusercontent.com/60184582/206710383-d274b31a-5b8b-44be-a6d8-7f437bdebffc.png"/></a> | <a href="https://www.kaggle.com/ahmednasser1601"><img align="center" src="https://user-images.githubusercontent.com/60184582/206710380-e548948a-017a-4b08-b6f8-f72125b7a98d.png"/></a> | <a href="https://www.facebook.com/AhmedNasser1601/"><img align="center" src="https://user-images.githubusercontent.com/60184582/206710371-5e9ce41c-1842-41d9-bcf5-c938c5e467f1.png"/></a> | <a href="https://t.me/AhmedNasser1601"><img align="center" src="https://user-images.githubusercontent.com/60184582/206710384-319394bd-d177-4215-a13a-5595246ea9aa.png"/></a> | <a href="mailto:ahmednasser1601@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/60184582/206710378-e37c64c9-1e40-4c0d-af0b-5b8d90010c52.png"/></a> |
 > | :-: | :-: | :-: | :-: | :-: | :-: |
