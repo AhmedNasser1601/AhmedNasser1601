@@ -4,8 +4,16 @@
 
 > 🧬 Senior Bioinformatics std. `FCIS, Ain Shams University`
 
-> | <a href="https://wa.me/201270800202?text=Hello"><img align="center" src="https://user-images.githubusercontent.com/60184582/206715242-21e193ea-4d40-4c25-a493-c8daed175e53.png"/></a> | <a href="https://www.linkedin.com/in/ahmednasser1601/"><img align="center" src="https://user-images.githubusercontent.com/60184582/206710383-d274b31a-5b8b-44be-a6d8-7f437bdebffc.png"/></a> | <a href="https://www.kaggle.com/ahmednasser1601"><img align="center" src="https://user-images.githubusercontent.com/60184582/206710380-e548948a-017a-4b08-b6f8-f72125b7a98d.png"/></a> | <a href="https://www.facebook.com/AhmedNasser1601/"><img align="center" src="https://user-images.githubusercontent.com/60184582/206710371-5e9ce41c-1842-41d9-bcf5-c938c5e467f1.png"/></a> | <a href="https://t.me/AhmedNasser1601"><img align="center" src="https://user-images.githubusercontent.com/60184582/206710384-319394bd-d177-4215-a13a-5595246ea9aa.png"/></a> | <a href="mailto:ahmednasser1601@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/60184582/206710378-e37c64c9-1e40-4c0d-af0b-5b8d90010c52.png"/></a> |
-> | :-: | :-: | :-: | :-: | :-: | :-: |
+> <table>
+>   <tr>
+>     <td><a href="https://wa.me/201270800202?text=Hello"><img align="center" src="https://user-images.githubusercontent.com/60184582/206715242-21e193ea-4d40-4c25-a493-c8daed175e53.png"/></a></td>
+>     <td><a href="https://www.linkedin.com/in/AhmedNasser1601"><img align="center" src="https://user-images.githubusercontent.com/60184582/206710383-d274b31a-5b8b-44be-a6d8-7f437bdebffc.png"/></a></td>
+>     <td><a href="https://www.kaggle.com/AhmedNasser1601"><img align="center" src="https://user-images.githubusercontent.com/60184582/206710380-e548948a-017a-4b08-b6f8-f72125b7a98d.png"/></a></td>
+>     <td><a href="https://www.facebook.com/AhmedNasser1601"><img align="center" src="https://user-images.githubusercontent.com/60184582/206710371-5e9ce41c-1842-41d9-bcf5-c938c5e467f1.png"/></a></td>
+>     <td><a href="https://t.me/AhmedNasser1601"><img align="center" src="https://user-images.githubusercontent.com/60184582/206710384-319394bd-d177-4215-a13a-5595246ea9aa.png"/></a></td>
+>     <td><a href="mailto:ahmednasser1601@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/60184582/206710378-e37c64c9-1e40-4c0d-af0b-5b8d90010c52.png"/></a></td>
+>   </tr>
+> </table>
 
 > <a href="https://bit.ly/ahmednasser1601"><img width="250" align="center" src="https://readme-typing-svg.herokuapp.com?font=&duration=3500&color=FFFF00&background=000000&center=true&vCenter=true&width=225&height=35&lines=%F0%9F%94%B8See+my+Resume%F0%9F%94%B8"/></a>
 
@@ -21,9 +29,8 @@
 
 > ___
 
-> [<kbd><br><img src="https://komarev.com/ghpvc/?username=AhmedNasser1601"/><br></kbd>](https://komarev.com/ghpvc/?username=AhmedNasser1601) [<kbd><br><img src="https://wakatime.com/badge/github/AhmedNasser1601/AhmedNasser1601.svg"/><br></kbd>](https://wakatime.com/AhmedNasser1601)
+> <img src="https://komarev.com/ghpvc/?username=AhmedNasser1601&color=orange"/> &nbsp; [<img src="https://wakatime.com/badge/github/AhmedNasser1601/AhmedNasser1601.svg"/>](https://wakatime.com/AhmedNasser1601) &nbsp; [<img src="https://img.shields.io/github/followers/AhmedNasser1601?style=social"/>](https://github.com/AhmedNasser1601?tab=followers) &nbsp; [<img src="https://img.shields.io/badge/build-passing-success"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" height=18/>](https://github.com/AhmedNasser1601)
 
 <!---
-> [<kbd><br>![User Rank Over Egypt](https://enog8v2bxujn2dj.m.pipedream.net)<br></kbd>](https://enog8v2bxujn2dj.m.pipedream.net)
 > [<kbd><br><img src="https://user-badge.committers.top/egypt/AhmedNasser1601.svg"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" height=18/><br></kbd>](https://user-badge.committers.top/egypt/AhmedNasser1601)
 -->
