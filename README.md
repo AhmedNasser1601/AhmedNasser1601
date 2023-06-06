@@ -29,7 +29,7 @@
 
 > ___
 
-> <img src="https://komarev.com/ghpvc/?username=AhmedNasser1601&color=orange"/> &nbsp; [<img src="https://wakatime.com/badge/github/AhmedNasser1601/AhmedNasser1601.svg"/>](https://wakatime.com/AhmedNasser1601) &nbsp; [<img src="https://img.shields.io/github/followers/AhmedNasser1601?style=social"/>](https://github.com/AhmedNasser1601?tab=followers) &nbsp; [<img src="https://img.shields.io/badge/build-passing-success"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" height=18/>](https://github.com/AhmedNasser1601)
+> <img src="https://komarev.com/ghpvc/?username=AhmedNasser1601&color=orange"/> &nbsp; [<img src="https://wakatime.com/badge/github/AhmedNasser1601/AhmedNasser1601.svg"/>](https://wakatime.com/AhmedNasser1601) &nbsp; [<img src="https://img.shields.io/github/followers/AhmedNasser1601?style=social"/>](https://github.com/AhmedNasser1601?tab=followers) &nbsp; [<img src="https://img.shields.io/badge/build-passing-success"/>](https://github.com/AhmedNasser1601)
 
 <!---
 > [<kbd><br><img src="https://user-badge.committers.top/egypt/AhmedNasser1601.svg"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" height=18/><br></kbd>](https://user-badge.committers.top/egypt/AhmedNasser1601)
