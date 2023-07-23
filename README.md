@@ -25,11 +25,12 @@
 
 > <div alt="Top Langs" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasser1601&langs_count=8&layout=compact&show_icons=true&theme=vision-friendly-dark"/></div>
 
-> <div alt="Snake Game" align="center"><img src="https://github.com/AhmedNasser1601/AhmedNasser1601/blob/output/github-contribution-grid-snake.svg"/></div>
+> <img alt="github-snake" src="github-snake.svg"/>
 
 > <div alt="Stats" align="center"><img src="https://komarev.com/ghpvc/?username=AhmedNasser1601&color=orange"/> &nbsp; <img src="https://wakatime.com/badge/github/AhmedNasser1601/AhmedNasser1601.svg"/> &nbsp; <img src="https://img.shields.io/github/followers/AhmedNasser1601?style=social"/></div>
 
 <!---
 > [<kbd><br><img src="https://user-badge.committers.top/egypt/AhmedNasser1601.svg"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" height=18/><br></kbd>](https://user-badge.committers.top/egypt/AhmedNasser1601)
 > <div align="center"><a href="https://ahmednasser1601.github.io"><img width="450" align="center" alt="Ahmed Nasser" src="https://user-images.githubusercontent.com/60184582/206713644-03bb8b0b-b550-47e5-a765-a0b198890f2f.png"/></a></div>
+> <div alt="Snake Game" align="center"><img src="https://github.com/AhmedNasser1601/AhmedNasser1601/blob/output/github-contribution-grid-snake.svg"/></div>
 -->
