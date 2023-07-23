@@ -1,10 +1,10 @@
-> <div align="center"><img width="450" align="center" src="https://readme-typing-svg.herokuapp.com?font=&color=0CFF34&center=true&vCenter=true&lines=%E2%9A%A1%F0%9D%93%91%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B2%F0%9D%93%AE%F0%9D%93%BF%F0%9D%93%AE+%F0%9D%93%B2%F0%9D%93%B7+%F0%9D%93%9F%F0%9D%93%B8%F0%9D%94%80%F0%9D%93%AE%F0%9D%93%BB+%F0%9D%93%B8%F0%9D%93%AF+%F0%9D%93%92%F0%9D%93%B8%F0%9D%93%AD%F0%9D%93%AE%E2%9A%A1"/></div>
+> <div alt="Motivation Quote" align="center"><img width="450" align="center" src="https://readme-typing-svg.herokuapp.com?font=&color=0CFF34&center=true&vCenter=true&lines=%E2%9A%A1%F0%9D%93%91%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B2%F0%9D%93%AE%F0%9D%93%BF%F0%9D%93%AE+%F0%9D%93%B2%F0%9D%93%B7+%F0%9D%93%9F%F0%9D%93%B8%F0%9D%94%80%F0%9D%93%AE%F0%9D%93%BB+%F0%9D%93%B8%F0%9D%93%AF+%F0%9D%93%92%F0%9D%93%B8%F0%9D%93%AD%F0%9D%93%AE%E2%9A%A1"/></div>
 
-> <div align="center"><img src="https://github.com/AhmedNasser1601/AhmedNasser1601/assets/60184582/2df0f2f3-07fc-4d77-955f-683445b4e262"/></div>
+> <div alt="Ahmed Nasser" align="center"><a href="https://ahmednasser.my.canva.site"><img src="https://github.com/AhmedNasser1601/AhmedNasser1601/assets/60184582/2df0f2f3-07fc-4d77-955f-683445b4e262"/></a></div>
 
-> <div align="center">Fresh Graduate 🧬 Bioinformatics, FCIS, Ain Shams University</div>
+> <div alt="Education" align="center">Fresh Graduate 🧬 Bioinformatics, FCIS, Ain Shams University</div>
 
-> <table align="center">
+> <table alt="Contact Details" align="center">
 >   <tr>
 >     <td><a href="https://wa.me/201270800202?text=Hello"><img align="center" src="https://user-images.githubusercontent.com/60184582/206715242-21e193ea-4d40-4c25-a493-c8daed175e53.png"/></a></td>
 >     <td><a href="https://www.linkedin.com/in/AhmedNasser1601"><img align="center" src="https://user-images.githubusercontent.com/60184582/206710383-d274b31a-5b8b-44be-a6d8-7f437bdebffc.png"/></a></td>
@@ -15,7 +15,7 @@
 >   </tr>
 > </table>
 
-> <div align="center"><a href="https://bit.ly/ahmednasser1601"><img width="250" align="center" src="https://readme-typing-svg.herokuapp.com?font=&duration=3500&color=FFFF00&background=000000&center=true&vCenter=true&width=225&height=35&lines=%F0%9F%94%B8See+my+Resume%F0%9F%94%B8"/></a></div>
+> <div alt="Resume" align="center"><a href="https://bit.ly/ahmednasser1601"><img width="250" align="center" src="https://readme-typing-svg.herokuapp.com?font=&duration=3500&color=FFFF00&background=000000&center=true&vCenter=true&width=225&height=35&lines=%F0%9F%94%B8See+my+Resume%F0%9F%94%B8"/></a></div>
 
 > ___
 
@@ -31,6 +31,5 @@
 
 <!---
 > [<kbd><br><img src="https://user-badge.committers.top/egypt/AhmedNasser1601.svg"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" height=18/><br></kbd>](https://user-badge.committers.top/egypt/AhmedNasser1601)
-> [<img src="https://img.shields.io/badge/build-passing-success"/>](https://github.com/AhmedNasser1601)
 > <div align="center"><a href="https://ahmednasser1601.github.io"><img width="450" align="center" alt="Ahmed Nasser" src="https://user-images.githubusercontent.com/60184582/206713644-03bb8b0b-b550-47e5-a765-a0b198890f2f.png"/></a></div>
 -->
