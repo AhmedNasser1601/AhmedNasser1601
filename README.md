@@ -1,8 +1,8 @@
 > <div align="center"><img width="450" align="center" src="https://readme-typing-svg.herokuapp.com?font=&color=0CFF34&center=true&vCenter=true&lines=%E2%9A%A1%F0%9D%93%91%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B2%F0%9D%93%AE%F0%9D%93%BF%F0%9D%93%AE+%F0%9D%93%B2%F0%9D%93%B7+%F0%9D%93%9F%F0%9D%93%B8%F0%9D%94%80%F0%9D%93%AE%F0%9D%93%BB+%F0%9D%93%B8%F0%9D%93%AF+%F0%9D%93%92%F0%9D%93%B8%F0%9D%93%AD%F0%9D%93%AE%E2%9A%A1"/></div>
 
-> <div align="center"><a href="https://ahmednasser1601.github.io"><img width="450" align="center" alt="Ahmed Nasser" src="https://user-images.githubusercontent.com/60184582/206713644-03bb8b0b-b550-47e5-a765-a0b198890f2f.png"/></a></div>
+> <div align="center"><img src="https://github.com/AhmedNasser1601/AhmedNasser1601/assets/60184582/2df0f2f3-07fc-4d77-955f-683445b4e262"/></div>
 
-> <div align="center">🧬 Senior Bioinformatics std. FCIS, Ain Shams University</div>
+> <div align="center">Fresh Graduate 🧬 Bioinformatics, FCIS, Ain Shams University</div>
 
 > <table align="center">
 >   <tr>
@@ -32,4 +32,5 @@
 <!---
 > [<kbd><br><img src="https://user-badge.committers.top/egypt/AhmedNasser1601.svg"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" height=18/><br></kbd>](https://user-badge.committers.top/egypt/AhmedNasser1601)
 > [<img src="https://img.shields.io/badge/build-passing-success"/>](https://github.com/AhmedNasser1601)
+> <div align="center"><a href="https://ahmednasser1601.github.io"><img width="450" align="center" alt="Ahmed Nasser" src="https://user-images.githubusercontent.com/60184582/206713644-03bb8b0b-b550-47e5-a765-a0b198890f2f.png"/></a></div>
 -->
