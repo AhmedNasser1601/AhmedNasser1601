@@ -20,7 +20,6 @@
 
 > <p align="center"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AhmedNasser1601&color=orange"/> &nbsp; <img alt="Usage Time" src="https://wakatime.com/badge/github/AhmedNasser1601/AhmedNasser1601.svg"/> &nbsp; <img alt="Followers Counter" src="https://img.shields.io/github/followers/AhmedNasser1601?style=social"/></p>
 
-
 <!---
 > <p align="center"><img alt="User WidgetBox" src="https://github-widgetbox.vercel.app/api/profile?username=AhmedNasser1601&theme=darkmode&includeNames=true&data=followers,repositories,stars,commits"/></p>
 > <p align="center"><img alt="Tools WidgetBox" src="https://github-widgetbox.vercel.app/api/skills?theme=darkmode&tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier"/></p>
