@@ -12,9 +12,11 @@
 
 > <p align="center"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasser1601&langs_count=8&layout=compact&show_icons=true&theme=vision-friendly-dark"/></p>
 
+> <p align="center"><img alt="Programming Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quotecategory=programming"/></p>
+
 > <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedNasser1601/AhmedNasser1601/output/github-contribution-grid-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedNasser1601/AhmedNasser1601/output/github-contribution-grid-snake.svg"><img alt="Snake Game" src="https://raw.githubusercontent.com/AhmedNasser1601/AhmedNasser1601/output/github-contribution-grid-snake.svg"></picture></p>
 
-> <p align="center"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AhmedNasser1601&color=orange"/> &nbsp; <img alt="Usage Time" src="https://wakatime.com/badge/github/AhmedNasser1601/AhmedNasser1601.svg"/> &nbsp; <img alt="Followers Counter" src="https://img.shields.io/github/followers/AhmedNasser1601?style=social"/></p>
+> <p align="center"><a href="https://github.com/AhmedNasser1601"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AhmedNasser1601&color=orange"/></a> &nbsp; <a href="https://user-badge.committers.top/egypt/AhmedNasser1601"><img alt="Most Active GitHub User" src="https://user-badge.committers.top/egypt/AhmedNasser1601.svg"/></a> &nbsp; <a href="https://github.com/AhmedNasser1601?tab=followers"><img alt="Followers Counter" src="https://img.shields.io/github/followers/AhmedNasser1601?style=social"/></a></p>
 
 <!---
 > <p align="center"><img alt="User WidgetBox" src="https://github-widgetbox.vercel.app/api/profile?username=AhmedNasser1601&theme=darkmode&includeNames=true&data=followers,repositories,stars,commits"/></p>
