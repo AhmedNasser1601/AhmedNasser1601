@@ -16,13 +16,4 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedNasser1601/AhmedNasser1601/output/github-contribution-grid-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedNasser1601/AhmedNasser1601/output/github-contribution-grid-snake.svg"><img alt="Snake Game" src="https://raw.githubusercontent.com/AhmedNasser1601/AhmedNasser1601/output/github-contribution-grid-snake.svg"></picture></p>
 
-<p align="center"><a href="https://github.com/AhmedNasser1601"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AhmedNasser1601&color=orange"/></a> &nbsp; <a href="https://github.com/AhmedNasser1601?tab=followers"><img alt="Followers Counter" src="https://img.shields.io/github/followers/AhmedNasser1601?style=social"/></a></p>
-
-<!---
-<p align="center"><img alt="User WidgetBox" src="https://github-widgetbox.vercel.app/api/profile?username=AhmedNasser1601&theme=darkmode&includeNames=true&data=followers,repositories,stars,commits"/></p>
-<p align="center"><img alt="Tools WidgetBox" src="https://github-widgetbox.vercel.app/api/skills?theme=darkmode&tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier"/></p>
-<p align="center"><img alt="Libraries WidgetBox" src="https://github-widgetbox.vercel.app/api/skills?theme=darkmode&includeNames=true&libraries=babel,p5,tensorflow,jquery"/></p>
-<p align="center"><img alt="Frameworks WidgetBox" src="https://github-widgetbox.vercel.app/api/skills?theme=darkmode&includeNames=true&frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet"/></p>
-<p align="center"><img alt="Languages WidgetBox" src="https://github-widgetbox.vercel.app/api/skills?theme=darkmode&includeNames=true&languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown"/></p>
-<a href="https://user-badge.committers.top/egypt/AhmedNasser1601"><img alt="Most Active GitHub User" src="https://user-badge.committers.top/egypt/AhmedNasser1601.svg"/></a> &nbsp;
--->
+<p align="center"><a href="https://user-badge.committers.top/egypt/AhmedNasser1601"><img alt="Egypt's Most Active GitHub User" src="https://user-badge.committers.top/egypt/AhmedNasser1601.svg"/></a> &nbsp; <a href="https://github.com/AhmedNasser1601"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AhmedNasser1601&color=orange"/></a> &nbsp; <a href="https://github.com/AhmedNasser1601?tab=followers"><img alt="Followers Counter" src="https://img.shields.io/github/followers/AhmedNasser1601?style=social"/></a></p>
