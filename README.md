@@ -16,4 +16,8 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedNasser1601/AhmedNasser1601/output/github-contribution-grid-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedNasser1601/AhmedNasser1601/output/github-contribution-grid-snake.svg"><img alt="Snake Game" src="https://raw.githubusercontent.com/AhmedNasser1601/AhmedNasser1601/output/github-contribution-grid-snake.svg"></picture></p>
 
-<p align="center"><a href="https://user-badge.committers.top/egypt/AhmedNasser1601"><img alt="Egypt's Most Active GitHub User" src="https://user-badge.committers.top/egypt/AhmedNasser1601.svg"/></a> &nbsp; <a href="https://github.com/AhmedNasser1601"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AhmedNasser1601&color=orange"/></a> &nbsp; <a href="https://github.com/AhmedNasser1601?tab=followers"><img alt="Followers Counter" src="https://img.shields.io/github/followers/AhmedNasser1601?style=social"/></a></p>
+<p align="center"><a href="https://github.com/AhmedNasser1601"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AhmedNasser1601&color=orange"/></a> &nbsp; <a href="https://github.com/AhmedNasser1601?tab=followers"><img alt="Followers Counter" src="https://img.shields.io/github/followers/AhmedNasser1601?style=social"/></a></p>
+
+<!---
+<a href="https://user-badge.committers.top/egypt/AhmedNasser1601"><img alt="Egypt's Most Active GitHub User" src="https://user-badge.committers.top/egypt/AhmedNasser1601.svg"/></a> &nbsp; 
+-->
