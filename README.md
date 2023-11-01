@@ -4,7 +4,6 @@
 <p align="center"><a href="https://ahmednasser.my.canva.site"><img alt="Website" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=500&repeat=false&color=963&center=true&vCenter=true&multiline=true&width=400&height=85&lines=%F0%9F%94%B8+%F0%9F%94%B8+%F0%9F%94%B8;%F0%9F%94%B8+Website+%F0%9F%94%B8;%F0%9F%94%B8+%F0%9F%94%B8+%F0%9F%94%B8"/></a></p>
 <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedNasser1601&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark"/></p>
 <p align="center"><img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=AhmedNasser1601&theme=blue-green&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD0000&stroke=9140DD&ring=5DDD32&dates=A1199A&sideNums=136EDD"/></p>
-<p align="center"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasser1601&langs_count=8&layout=compact&show_icons=true&theme=vision-friendly-dark"/></p>
-<p align="center"><img alt="Programming Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quotecategory=programming"/></p>
+<p align="center"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasser1601&langs_count=8&layout=compact&theme=vision-friendly-dark"/></p>
 <p align="center"><img alt="Snake Game" src="https://raw.githubusercontent.com/AhmedNasser1601/AhmedNasser1601/output/github-contribution-grid-snake-dark.svg"/></p>
 <p align="center"><a href="https://github.com/AhmedNasser1601"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AhmedNasser1601&color=orange"/></a></p>
